@@ -1,0 +1,26 @@
+{
+  "name": "js_project2_kodilla",
+  "version": "1.0.0",
+  "description": "cwiczenie 8.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ender187/js_project2_kodilla.git"
+  },
+  "keywords": [
+    "java"
+  ],
+  "author": "Maciej Hiltawski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ender187/js_project2_kodilla/issues"
+  },
+  "homepage": "https://github.com/Ender187/js_project2_kodilla#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
